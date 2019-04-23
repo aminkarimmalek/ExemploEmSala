@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\bin\Debug\ExercicioCrudWinForms.exe.config
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\bin\Debug\ExercicioCrudWinForms.exe
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\bin\Debug\ExercicioCrudWinForms.pdb
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.Form1.resources
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.Properties.Resources.resources
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.exe
+C:\Users\Acer\source\repos\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.pdb
+C:\Users\Apex\Desktop\AMIN\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.csprojAssemblyReference.cache
+C:\Users\Apex\Desktop\AMIN\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.Form1.resources
+C:\Users\Apex\Desktop\AMIN\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.Properties.Resources.resources
+C:\Users\Apex\Desktop\AMIN\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.csproj.GenerateResource.cache
+C:\Users\Apex\Desktop\AMIN\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Apex\Desktop\AMIN\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.exe
+C:\Users\Apex\Desktop\AMIN\ExercicioCrudWinForms\ExercicioCrudWinForms\obj\Debug\ExercicioCrudWinForms.pdb
